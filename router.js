@@ -15,7 +15,8 @@ RenderAboutPage();
 });
 
 function RenderAboutPage(params) {
-    document.querySelector('main').innerHTML = `Hello`;
+    document.querySelector('main').innerHTML =
+    `<div>Hello</div>`;
 }
 
 function PopStateHandler(event) {
