@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "node": "^19.4.0"
+  },
+  "name": "spa-example",
+  "version": "1.0.0",
+  "main": "router.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sephooko/SPA-example.git"
+  },
+  "author": "Me",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sephooko/SPA-example/issues"
+  },
+  "homepage": "https://github.com/sephooko/SPA-example#readme",
+  "description": ""
+}
