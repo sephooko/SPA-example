@@ -1,5 +1,5 @@
 let pageUrls = {
-    about: '/index.html?about'
+    about: '/index.html?about',
 }
 function onStartUp(params) {
     PopStateHandler();
