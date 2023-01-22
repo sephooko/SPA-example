@@ -15,7 +15,7 @@ RenderAboutPage();
 });
 
 function RenderAboutPage(params) {
-    document.getElementById('about');
+    document.querySelector('#about');
 }
 
 function PopStateHandler(event) {
@@ -25,3 +25,4 @@ function PopStateHandler(event) {
     }
 }
 window.onpopstate = PopStateHandler;
+
