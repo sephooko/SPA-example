@@ -15,7 +15,7 @@ RenderAboutPage();
 });
 
 function RenderAboutPage(params) {
-    document.querySelector('#about');
+    document.querySelector('main').innerHTML = `Hello`;
 }
 
 function PopStateHandler(event) {
